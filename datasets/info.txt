@@ -1,0 +1,5 @@
+../datasets/krungsri\sample01.jpg 1 83 15 82 75
+../datasets/krungsri\sample02.jpg 12 48 8 67 59 143 4 69 64 264 5 69 61 357 5 69 61 477 5 66 63 568 6 65 60 144 121 65 67 42 243 77 66 478 243 60 62 563 126 72 62 567 246 66 62 567 366 61 64
+../datasets/krungsri\sample03.jpg 1 332 355 149 156
+../datasets/krungsri\sample04.png 1 220 23 37 30
+../datasets/krungsri\sample05.jpg 1 117 12 84 73

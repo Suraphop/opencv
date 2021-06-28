@@ -1,0 +1,11 @@
+python
+tensorflow
+opencv-contrib-python
+nbconvert
+pandoc
+pyppeteer
+matplotlib
+pandas
+joblib
+sklearn
+imutils
